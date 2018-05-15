@@ -9,7 +9,7 @@
 package hw.hw02;
 
 public class GradeBean {
-
+	//20151080 박은혜
 	private String username;
 	private String score;
 	private int Score;
